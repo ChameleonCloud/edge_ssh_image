@@ -1,5 +1,7 @@
 # Ubuntu 22.04 docker image with SSH setup for Kubernetes
 
+Trovi Artifact showcasing how to spin up an SSH enabled container on CHI@Edge
+
 This Dockerfile contains the following workarounds to allow SSH through Kubernetes and CHI@Edge:
 
 - Allow Root Login 
